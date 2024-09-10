@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on innovative projects 
 - 📫 Reach me on linkedin-https://www.linkedin.com/in/adithyakokkula
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: coding is not just simply knowing the content but understanding it makes you a real coder............
+- ⚡ Fun fact: The QWERTY keyboard was designed to be slow – Yes, it was specifically designed to slow typists down because old typewriters jammed if people typed too fast. So, next time you’re typing, blame your keyboard for your "speed limit"!
 
 <!---
 AdityaKokkula/AdityaKokkula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
