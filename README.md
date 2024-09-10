@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @AdityaKokkula
-- 👀 I’m interested in coding, innovations...
-- 🌱 I’m recently graduated from my undergraduate college
-- 💞️ I’m looking to collaborate on innovative projects 
-- 📫 Reach me on linkedin-https://www.linkedin.com/in/adithyakokkula
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: The QWERTY keyboard was designed to be slow – Yes, it was specifically designed to slow typists down because old typewriters jammed if people typed too fast. So, next time you’re typing, blame your keyboard for your "speed limit"!
 
-<!---
-AdityaKokkula/AdityaKokkula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hey there! 👋 I'm Adithya Kokkula</h1>
+
+<p align="center">
+"Passionate developer blending creativity with code to solve real-world problems."
+</p>
+<p align="center">
+Building Tomorrow, One Line of Code at a Time.
+</p>
+
+
+About Me
+- 🔭 Currently working as a Python Developer Intern at Techplement
+- 🌱 Exploring AI/ML and implementing new methodologies
+- 💡 Always seeking to solve real-world problems through technology
+- 🎓 Recent Computer Science Graduate from St. Peter's Engineering College
+- 🛠️ Skilled in Python, Java, JavaScript, React, HTML, CSS
+
