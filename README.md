@@ -9,14 +9,14 @@ Building Tomorrow, One Line of Code at a Time.
 </p>
 
 
-About Me
+<h2>About Me</h2>
 - 🔭 Currently working as a Python Developer Intern at Techplement
 - 🌱 Exploring AI/ML and implementing new methodologies
 - 💡 Always seeking to solve real-world problems through technology
 - 🎓 Recent Computer Science Graduate from St. Peter's Engineering College
 - 🛠️ Skilled in Python, Java, JavaScript, React, HTML, CSS
 
-<h1>Tech Stack:</h1>
+<h3>Tech Stack:</h3>
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
