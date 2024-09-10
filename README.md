@@ -16,7 +16,7 @@ Building Tomorrow, One Line of Code at a Time.
 - 🎓 Recent Computer Science Graduate from St. Peter's Engineering College
 - 🛠️ Skilled in Python, Java, JavaScript, React, HTML, CSS
 
-<h3>Tech Stack:</h3>
+<h2>Tech Stack:</h2>
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
